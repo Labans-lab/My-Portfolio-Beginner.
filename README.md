@@ -42,7 +42,7 @@ This is a beginner-friendly personal portfolio website built using **HTML** and 
 
 If you'd like to collaborate or get in touch:
 
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Email: [labankipkoech047@gmail.com](mailto:labankipkoech047@gmail.com)
 * Phone: +254 712 345 678
 * LinkedIn: [https://www.linkedin.com/in/laban-kipkoech-61676a21a/](https://www.linkedin.com/in/laban-kipkoech-61676a21a/)
 ---
