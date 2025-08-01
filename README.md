@@ -47,4 +47,4 @@ If you'd like to collaborate or get in touch:
 * LinkedIn: [https://www.linkedin.com/in/laban-kipkoech-61676a21a/](https://www.linkedin.com/in/laban-kipkoech-61676a21a/)
 ---
 
-Made with ❤️ by an aspiring data scientist, analyst, and engineer.
+Aspiring data scientist, analyst, and engineer.
