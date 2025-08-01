@@ -24,16 +24,16 @@ This is a beginner-friendly personal portfolio website built using **HTML** and 
 ## 🛠 Technologies Used
 
 * HTML5
-* CSS3
+* CSS
 
 ## 📄 How to Use
 
 1. Clone or download the project files.
 2. Replace placeholder content:
 
-   * `your.email@example.com`
-   * `+254 712 345 678`
-   * `linkedin.com/in/yourprofile`
+   * `labankipkoech047@gmail.com`
+   * `+254 716693085`
+   * `https://www.linkedin.com/in/laban-kipkoech-61676a21a/`
    * Project links and descriptions
 3. Add your CV as `cv.pdf` in the project directory.
 4. Open `index.html` in a browser to view the site.
@@ -43,7 +43,7 @@ This is a beginner-friendly personal portfolio website built using **HTML** and 
 If you'd like to collaborate or get in touch:
 
 * Email: [labankipkoech047@gmail.com](mailto:labankipkoech047@gmail.com)
-* Phone: +254 712 345 678
+* Phone: +254 71693085
 * LinkedIn: [https://www.linkedin.com/in/laban-kipkoech-61676a21a/](https://www.linkedin.com/in/laban-kipkoech-61676a21a/)
 ---
 
