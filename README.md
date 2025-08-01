@@ -44,8 +44,7 @@ If you'd like to collaborate or get in touch:
 
 * Email: [your.email@example.com](mailto:your.email@example.com)
 * Phone: +254 712 345 678
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
+* LinkedIn: [https://www.linkedin.com/in/laban-kipkoech-61676a21a/](https://www.linkedin.com/in/laban-kipkoech-61676a21a/)
 ---
 
 Made with ❤️ by an aspiring data scientist, analyst, and engineer.
